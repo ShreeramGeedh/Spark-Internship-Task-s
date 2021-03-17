@@ -33,3 +33,10 @@ I will be doing this with the help of seaborn, plotly and folium libraries in py
 
 ### What are we supposed to do with the given dataset?
 As a security/defense analyst, we will try to find out the hot zone of terrorism. Also, what all security issues and insights can be derived by EDA.
+
+## Technical : Task 6 - Prediction using Decision Tree Algorithm (Level - Intermediate)
+### Create the Decision Tree classifier and visualize it graphically.
+I will be doing this with the help of seaborn, plotnine and folium libraries in python. Dataset can be found at : https://bit.ly/3kXTdox
+
+### What are we supposed to do with the given dataset?
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
