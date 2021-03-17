@@ -1,6 +1,8 @@
-In this task I did Prediction using Supervised ML
+Task1: Prediction using Supervised Machine Learning
+Completed by Shreeram Sandeep Geedh
 
-I got dataset and according that dataset I have predict the percentage of an student based on the no. of study hours.
+Problem Statement:
+Predict the percentage of a student based on the no. of study hours. A simple linear regression task that involves 2 variables.
 
 
 For this project I  use following Packages:
